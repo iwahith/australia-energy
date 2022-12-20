@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/australia-energy/static/css/main.4a645e8f.css",
+    "main.js": "/australia-energy/static/js/main.a246fcf3.js",
+    "index.html": "/australia-energy/index.html",
+    "main.4a645e8f.css.map": "/australia-energy/static/css/main.4a645e8f.css.map",
+    "main.a246fcf3.js.map": "/australia-energy/static/js/main.a246fcf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a645e8f.css",
+    "static/js/main.a246fcf3.js"
+  ]
+}
