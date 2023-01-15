@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/australia-energy/static/css/main.05cd18ef.css",
-    "main.js": "/australia-energy/static/js/main.c9909212.js",
+    "main.css": "/australia-energy/static/css/main.cac84881.css",
+    "main.js": "/australia-energy/static/js/main.480fc9ba.js",
     "index.html": "/australia-energy/index.html",
-    "main.05cd18ef.css.map": "/australia-energy/static/css/main.05cd18ef.css.map",
-    "main.c9909212.js.map": "/australia-energy/static/js/main.c9909212.js.map"
+    "main.cac84881.css.map": "/australia-energy/static/css/main.cac84881.css.map",
+    "main.480fc9ba.js.map": "/australia-energy/static/js/main.480fc9ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.05cd18ef.css",
-    "static/js/main.c9909212.js"
+    "static/css/main.cac84881.css",
+    "static/js/main.480fc9ba.js"
   ]
 }
